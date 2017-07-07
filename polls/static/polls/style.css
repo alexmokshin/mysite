@@ -1,0 +1,9 @@
+li a {
+    color: green;
+}
+body {
+    background: white url("images/anime.gif") no-repeat right;
+    width: 800px;
+    height: 450px;
+    top: 20px;
+}
